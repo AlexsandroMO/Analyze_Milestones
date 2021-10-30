@@ -1,0 +1,9 @@
+
+django
+django-crispy-forms
+numpy
+pandasql
+tinydb
+openpyxl
+excel
+xlrd==1.2.0
